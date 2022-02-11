@@ -1,0 +1,6 @@
+Hello
+I am a new file
+bye
+I am a new line
+Whats up?
+Modified line
